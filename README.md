@@ -5,6 +5,7 @@ Bem-vindo! Este repositório foi criado para a conclusão do **Curso Go** da **U
 ## 📑 Índice
 - [Módulo 1 - Getting Started With Go](#modulo-1)
 - [Módulo 2 - Functions, Methods, and Interfaces in Go](#modulo-2)
+- [Módulo 3 - Concurrency in Go](#modulo-3)
 
 ## 🧑‍💻 Módulo 1: Getting Started With Go
 
