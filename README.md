@@ -36,4 +36,19 @@ Este módulo cobre a implementação de funções e seus tipos, orientação a o
 - **Type assertion/Ascerção de tipo**
 - **Tratamento de erros**
 
+---
+
+## 🧑‍💻 Módulo 3: Concurrency in Go
+
+Este módulo discorre sobre o porquê de utilizar a concorrência, seus conceitos básicos e como trabalhar com threads utilizando goroutines mais técnicas de sincronização.
+
+- **Concorrência vs Paralelo**
+- **GoScheduling, Goroutines**
+- **Race Conditions (Condições de Corrida)**
+- **Interleavings (Intercalações de Execução)**
+- **Wait Group, Canais, Mutex, Select**
+- **Dead lock**
+
+---
+
 📚 **Curso Go - University of California Irvine**
